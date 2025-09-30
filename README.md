@@ -151,11 +151,11 @@ This project was brought to life during a **2-day hackathon** by:
 
 | Name              | GitHub Profile   | LinkedIn Profile   |
 |-------------------|-----------------|-------------------|
-| [Roktim Taye]   | [Link to GitHub](https://github.com/RoktimTaye)  | Link to LinkedIn  |
-| [Manav Agarwalla]   | Link to GitHub  | Link to LinkedIn  |
-| [Bishnu Kamal Dutta]   | Link to GitHub  | Link to LinkedIn  |
-| [Sanjib Biswas]   | Link to GitHub  | Link to LinkedIn  |
-| [Jyotirmoy Rajbongshi]   | Link to GitHub  | Link to LinkedIn  |
+| [Roktim Taye]   | [Link to GitHub](https://github.com/RoktimTaye)  | [Link to LinkedIn](https://www.linkedin.com/in/roktim-taye-86957437a/)  |
+| [Manav Agarwalla]   | [Link to GitHub](https://github.com/manav590 )  | [Link to LinkedIn](https://www.linkedin.com/in/manav-agarwal-baa26b333/)  |
+| [Bishnu Kamal Dutta]   | [Link to GitHub](https://github.com/BishnuKamalDutta)  | [Link to LinkedIn](https://www.linkedin.com/in/bishnu-kamal-dutta-0073b72b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
+| [Sanjib Biswas]   | [Link to GitHub](https://github.com/sanjibbiswas2452005-star)  | [Link to LinkedIn](https://www.linkedin.com/in/sanjib-biswas-251004280/)  |
+| [Jyotirmoy Rajbongshi]   | Link to GitHub  | [Link to LinkedIn](https://www.linkedin.com/in/jyotirmoy-rajbongshi-42506b387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
 
 ---
 
