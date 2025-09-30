@@ -87,19 +87,7 @@ This prototype is built with a modern, fast, and scalable frontend stack.
 - Node.js (v16 or higher)  
 - npm or yarn package manager  
 
-### Quick Start
-
-```bash
-# 1. Clone the repository
-git clone <your-repository-url>
-cd yourlocal-app
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the development server
-npm run dev
-(```)
+---
 
 ### 📋 Demo Flow Recommendations
 
