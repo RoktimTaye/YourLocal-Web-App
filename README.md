@@ -99,10 +99,9 @@ npm install
 
 # 3. Start the development server
 npm run dev
+(```)
 
----
-
-## 📋 Demo Flow Recommendations
+### 📋 Demo Flow Recommendations
 
 ### 1. User Journey (5 minutes)
 - Start at the homepage (`/`).
