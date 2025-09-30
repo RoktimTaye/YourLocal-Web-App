@@ -151,7 +151,7 @@ This project was brought to life during a **2-day hackathon** by:
 
 | Name              | GitHub Profile   | LinkedIn Profile   |
 |-------------------|-----------------|-------------------|
-| Roktim Taye   | Link to GitHub  | Link to LinkedIn  |
+| [Roktim Taye]   | [Link to GitHub](https://github.com/RoktimTaye)  | Link to LinkedIn  |
 | [Manav Agarwalla]   | Link to GitHub  | Link to LinkedIn  |
 | [Bishnu Kamal Dutta]   | Link to GitHub  | Link to LinkedIn  |
 | [Sanjib Biswas]   | Link to GitHub  | Link to LinkedIn  |
