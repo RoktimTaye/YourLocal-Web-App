@@ -151,10 +151,11 @@ This project was brought to life during a **2-day hackathon** by:
 
 | Name              | GitHub Profile   | LinkedIn Profile   |
 |-------------------|-----------------|-------------------|
-| [Team Member 1]   | Link to GitHub  | Link to LinkedIn  |
-| [Team Member 2]   | Link to GitHub  | Link to LinkedIn  |
-| [Team Member 3]   | Link to GitHub  | Link to LinkedIn  |
-| [Team Member 4]   | Link to GitHub  | Link to LinkedIn  |
+| [Roktim Taye]   | Link to GitHub  | Link to LinkedIn  |
+| [Manav Agarwalla]   | Link to GitHub  | Link to LinkedIn  |
+| [Bishnu Kamal Dutta]   | Link to GitHub  | Link to LinkedIn  |
+| [Sanjib Biswas]   | Link to GitHub  | Link to LinkedIn  |
+| [Jyotirmoy Rajbongshi]   | Link to GitHub  | Link to LinkedIn  |
 
 ---
 
