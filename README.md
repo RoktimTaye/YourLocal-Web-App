@@ -1,4 +1,4 @@
-# YourLocal: AI-Powered Fair Price Discovery for Groceries
+# YourLocal: AI-Powered Fair Price Discovery for Groceries (Paranox 2.0 Hackathon 2025 online shortlisting)
 Website Link : https://your-local-web-app.vercel.app/
 
 Youtube Link : https://youtu.be/2hCRiO9hTkc?si=pj38pMydb9n7ERK1
