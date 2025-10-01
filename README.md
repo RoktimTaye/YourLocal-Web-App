@@ -76,8 +76,7 @@ This prototype is built with a modern, fast, and scalable frontend stack.
 - **Styling**: Tailwind CSS for responsive, mobile-first design  
 - **Build Tool**: Vite for a fast development experience and optimized builds  
 - **Routing**: React Router for seamless single-page application navigation  
-- **State Management**: React useState/useEffect with localStorage for data persistence  
-- **Icons**: Lucide React for a consistent and clean iconography  
+- **State Management**: React useState/useEffect with localStorage for data persistence   
 
 ---
 
